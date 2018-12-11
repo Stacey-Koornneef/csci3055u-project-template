@@ -30,12 +30,6 @@ do {
 
 ## About open source library
 
-> _Describe at least one contribution by the open source
-community written in the language._
-
-# Analysis of the language
-
-> _Organize your report according to the project description
-document_.
+> The SourceCode library provides sourcecode metadata for your Scala program, which is helpful for dubegging.  The library is available via an implicit in the program.  The library can be found at https://github.com/lihaoyi/sourcecode
 
 
