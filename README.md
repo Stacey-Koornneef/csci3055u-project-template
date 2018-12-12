@@ -32,4 +32,6 @@ do {
 
 > The SourceCode library provides sourcecode metadata for your Scala program, which is helpful for dubegging.  The library is available via an implicit in the program.  The library can be found at https://github.com/lihaoyi/sourcecode
 
+## Analysis of the Language
 
+> Scala is a mix of object-oriented programming and functional programming.  It allows for 2 types of variable, mutable and immutable.  It also allows for a variety of interesting features, including anonymous functions.  The functional programming aspects of the language are part of the standard library, as opposed to being in a separate library.
